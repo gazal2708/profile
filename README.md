@@ -1,1 +1,0 @@
-# gazal2708.github.io
