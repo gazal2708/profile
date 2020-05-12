@@ -1,0 +1,154 @@
+{	
+	"landing": {
+		"firstName": "Gazal",
+		"lastName": "Jain",
+		"phoneNumber": "+91-9340435946",
+        "bio": "CSE Undergraduate from IIIT Naya Raipur currently in 7th Semester skilled in Data Science and Web Development and have a good knowledge of python programming and Beginner level knowledge in C and Java, also familiar with React library, HTML,CSS and Javascript and other tools and technologies related to Data science like Keras, Pandas, Numpy, Scikit-Learn.",
+        "email": "gazaljain7523@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/gazal-jain-4366a9153/",
+		"github": "https://github.com/gazal2708"
+	},
+	"experience": [
+		{
+			"position": "Incoming UI developer Intern",
+			"organization": "NASDAQ",
+			"aboutWork": "The Work related to Java, JS, HTML, CSS, React and Angular JS",
+			"fromDate": "June 2020",
+			"toDate": "July 2020"
+		},
+		{
+				"position": "Research Paper Author",
+				"organization": "ICDSE Conference 2019",
+				"aboutWork": "A smart fruit warehouse system designed for providing global access and monitoring control to users and to preserve the fruit stored for the desired number of days as per the user by automatically adjusting the parameters such as temperature humidity and light as per the requirement of that fruit.My work was to establish a connection which can send live data feed of sensors to the Thingspeak Cloud and to analyse the data afterwards.",
+				"fromDate": "February 2019",
+				"toDate": "April 2019"
+		},
+		{
+			"position": "Research Intern",
+			"organization": "Robita Lab,IIIT Allahabad",
+			"aboutWork": "ML model trained on the COCO dataset and using the architecture of ResNet 101 to detect objects in photos or in real-time videos and which also does masking of the detected objects along with the labeling.",
+			"fromDate": "May 2019",
+			"toDate": "July 2019"
+		}
+
+	],
+	"education": [{
+			"university": "Dr.SPM International Institute of Information Technology,Naya Raipur",
+			"degree": "Bachelor of Technology",
+			"gpa": "9.19",
+			"fromDate": "2017",
+			"toDate": "Present"
+		},{
+			"university": "Delhi Public School ,Risali, Bhilai",
+			"degree":"AISSCE",
+			"gpa":"93.40%",
+			"fromDate":"2015",
+			"toDate":"2017"
+		},
+		{
+			"university": "B.S.P. Senior Secondary School, Sector-10",
+			"degree":"AISSE",
+			"gpa":"93%",
+			"fromDate":"2013",
+			"toDate":"2015"
+		}
+	],
+	"skills": [{
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS3"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "React"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name":"Keras"
+		},
+		{
+			"name": "Deep Learning"
+		},
+		{
+			"name": "Machine Learning"
+		},
+		{
+			"name": "Selenium"
+		},
+		{
+			"name":"C(beginner)"
+		},
+		{
+			"name":"Java(Beginner)"
+		},
+		{
+			"name":"MS Word"
+		},
+		{
+			"name":"MS Powerpoint"
+		},
+		{
+			"name":"MS Excel"
+		}
+	],
+	"project": [
+		{
+			"name": "A CNN based approach to an integrated audio-video query answering system.",
+			"organization": "IIIT Naya Raipur, Guided By: Dr.Venkanna U.",
+			"aboutWork": "Developed a app with database of text files in which user query is inputted along with the text document and the DL model embedded in the app produces one sentence answer as output.The 1d-CNN approach is used to reduce both training and testing time.Currently working on to improve the accuracy of the model and extracting answers for queries on videos",
+			"fromDate": "May 2019",
+			"toDate": "Present"
+		},
+		{
+			"name": "Early Warning System on the prediction of ADR(Adverse drug Reaction)",
+			"organization": "Genpact's Dare in Reality Challenge 2020",
+			"aboutWork": "We developed a self-learning, early warning system for adverse drug reaction (ADR) and won prize money worth INR 3 lakhs.The web application can be used by healthcare professionals all over the world to get information regarding the probability of ADR associated with the drugs they would prescribe their patients.",
+			"fromDate": "October 2019",
+			"toDate": "February 2020"
+		},
+		{
+				"name": "Smart Fruit Warehouse and Control System Using IoT",
+				"organization": "IIIT Naya Raipur, Guided By: Dr.Venkanna U.",
+				"aboutWork": "A smart fruit warehouse system designed for providing global access and monitoring control to users and to preserve the fruit stored for the desired number of days as per the user by automatically adjusting the parameters such as temperature humidity and light as per the requirement of that fruit.My work was to establish a connection which can send live data feed of sensors to the Thingspeak Cloud and to analyse the data afterwards.",
+				"fromDate": "February 2019",
+				"toDate": "April 2019"
+		},
+		{
+			"name": "Developing an Imbalanced Classification Model to Detect Oil Spills",
+			"organization": "Self-Project",
+			"aboutWork": "Prediction of whether there is an oil spill or not using an unbalanced oil spill dataset. Comparing and using various machine learning models and mechanisms like G-mean on the Unbalanced dataset to get good accuracy score on unbalanced dataset.",
+			"fromDate": "March 2020",
+			"toDate": ""
+		},
+		{
+			"name": "Live Trending Stocks Data Scraping.",
+			"organization": "Self-Project",
+			"aboutWork": "Scraping of live stocks data from https://www.investing.com/equities/trending-stocks using python, selenium, lxml,pandas,beautiful soup.Live data scraped from dynamic and multiple tables as well as bar graphs.",
+			"fromDate": "December 2019",
+			"toDate": ""
+	}],
+	"interests": {
+		"paragraphOne": "Apart from working on Web dev tools and Data Science projects , I like reading blogs, articles, watching sci-fi,fantasy,mythological and thriller movies and television shows",
+		"paragraphTwo": "I also like practicing on my singing skills in my leisure time and I do have won third prize once in this field in the Intercollege Singing competition.Apart from singing , I love danciing and I do take take part in the events where I am able to show these skills of mine."
+	},
+	"awards": [
+
+		{
+			"awardDetail": "Secured 1st Position in Genpact's 'Dare In Reality' Challenge 2020 among 1600+ teams."
+		},
+		{
+			"awardDetail": "Secured 3rd position in Inter college singing competition held in Technovate 2018 at IIIT Naya Raipur."
+		},
+		{
+			"awardDetail": "Recipient of Chief Minister Scholarship,full tuition fees waived oﬀ for three years."
+		},
+		{ 
+			"awardDetail":"Recipient of PM scholarship of Rs.11000/year for 4 years from SAIL(Steel authority of India Limited)."
+		}
+	]
+}
